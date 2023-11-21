@@ -1,4 +1,26 @@
+<<<<<<< HEAD
 .odd{
     background-color: lightpink;
     font-family: Verdana, 'DejaVu Sans', sans-serif;
 }
+=======
+.odd {
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+  background-color: rgb(212, 130, 142);
+}
+
+#second {
+  color: rgb(0, 0, 255);
+  font-size: 36px;
+}
+
+.third {
+  font-size: 24px;
+}
+
+#fourth {
+  background-color: rgb(89, 202, 165);
+  font-size: 24px;
+  font-weight: bold;
+}
+>>>>>>> 24693592177fcc5633df4eeb4616ae694f7c2ab0
