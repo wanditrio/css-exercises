@@ -14,7 +14,7 @@ img {
 }
 
 .card {
-  width: 200px;
+  max-width: 200px;
   display: flex;
   flex-flow: column wrap;
   justify-content: center;
